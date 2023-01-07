@@ -1,5 +1,7 @@
 # Text classification notes
 
+![alt text](imgs/spark_text_classification_workflow.png)
+
 imports used:
 
 from pyspark import SparkContext<br>
